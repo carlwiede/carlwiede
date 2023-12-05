@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+平安あれ peace be upon you
+
+![](https://www.codewars.com/users/brothermancarl/badges/large)
+
 <!--
 **carlwiede/carlwiede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
