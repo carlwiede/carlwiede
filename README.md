@@ -2,7 +2,7 @@
 
 自業自得 self-work, self-profit
 
-![](https://www.codewars.com/users/brothermancarl/badges/large)
+[![My Codewars Badge](https://www.codewars.com/users/brothermancarl/badges/large)](https://www.codewars.com/users/brothermancarl)
 
 <!--
 **carlwiede/carlwiede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
