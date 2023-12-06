@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-平安あれ peace be upon you
+自業自得 self-work, self-profit
 
 ![](https://www.codewars.com/users/brothermancarl/badges/large)
 
