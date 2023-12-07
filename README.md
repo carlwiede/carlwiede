@@ -1,6 +1,4 @@
-### Hi there 👋
-
-自業自得 self-work, self-profit
+### 自業自得 self-work, self-profit
 
 [![My Codewars Badge](https://www.codewars.com/users/brothermancarl/badges/large)](https://www.codewars.com/users/brothermancarl)
 
